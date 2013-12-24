@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'giant2.0' target in the 'giant2.0' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+	#import <UIKit/UIKit.h>
+#endif
